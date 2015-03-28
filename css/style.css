@@ -1,0 +1,54 @@
+body{
+	margin: 0;
+	padding: 0;
+	height: auto;
+    background: black;
+}
+.container{
+	margin: inherit;
+    width: inherit;
+}
+.first-text{
+	background: transparent;
+	font-weight: bold;
+    text-align: center;
+    font-size-adjust: auto;
+    font-size: 60px;
+    color: white;
+    text-emphasis:bold;
+}
+.section1{
+    background: url(assets/h_img.jpg) no-repeat;
+    
+}
+.logo{
+    margin-left: auto;
+    margin-right: auto;
+    float: none;
+    margin-top: 100px;
+}
+.section2{
+    background: whitesmoke;
+    height: 300px;
+}
+.second-text{
+    color: black;
+    text-align: center;
+    background: transparent;
+    font-size-adjust: auto;  
+    
+}
+.section3{
+    height: 300px;
+    background: url(assets/s_image.jpg) no-repeat;
+}
+.third-text{
+    text-align: center;
+    background: transparent;
+    color: white;
+}
+.fourth-text{
+    text-align: center;
+    color: white;
+    font-weight: 200;
+}
